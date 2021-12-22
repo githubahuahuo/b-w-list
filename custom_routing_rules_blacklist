@@ -40,7 +40,7 @@
 		"outboundTag": "block",
 		"domain": [
 			"geosite:category-ads-all",
-			"#阻止CrxMouse鼠标手势收集上网数据",
+		       #"#阻止CrxMouse鼠标手势收集上网数据",
                         "mousegesturesapi.com"
 		]
 	},
