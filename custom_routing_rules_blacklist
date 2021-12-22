@@ -29,7 +29,9 @@
       "domain:freethesaurus.com",
       "domain:outline.com",
       "domain:v2fly.org",
-      "domain:whatismyip.com"
+      "domain:whatismyip.com",
+      "domain:tangrenjie.tv",
+      "domain:agefans.vip"
     ]
   },
   {
@@ -37,7 +39,9 @@
 		"port": "",
 		"outboundTag": "block",
 		"domain": [
-			"geosite:category-ads-all"
+			"geosite:category-ads-all",
+			"#阻止CrxMouse鼠标手势收集上网数据",
+                        "mousegesturesapi.com"
 		]
 	},
 	{
