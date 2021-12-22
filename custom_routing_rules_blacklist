@@ -39,8 +39,7 @@
 		"port": "",
 		"outboundTag": "block",
 		"domain": [
-			"geosite:category-ads-all",
-                        "mousegesturesapi.com"
+			"geosite:category-ads-all"
 		]
 	},
 	{
